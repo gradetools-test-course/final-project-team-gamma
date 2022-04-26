@@ -1,6 +1,6 @@
 ---
 title: "Project proposal"
-author: "Team name"
+author: "Team Gamma"
 output: github_document
 ---
 
@@ -10,12 +10,12 @@ library(tidyverse)
 
 ## 1. Introduction
 
-
+Stuff
 
 ## 2. Data
 
-
+More stuff
 
 ## 3. Data analysis plan
 
-
+Extra stuff
