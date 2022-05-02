@@ -4,7 +4,7 @@ Team Gamma
 
 ## Summary
 
-We totally did this project.
+We analyzed the association between body mass and bill length across different species of penguins.
 
 ## Presentation
 
@@ -13,4 +13,4 @@ The slides for our presentation can be found
 
 ## Data
 
-No data was used.
+A dataset with penguins data.
