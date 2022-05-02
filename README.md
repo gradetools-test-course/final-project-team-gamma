@@ -4,13 +4,13 @@ Team Gamma
 
 ## Summary
 
-We analyzed the association between body mass and bill length across different species of penguins.
+We analyzed the association between body mass and flipper length across different species of penguins.
 
 ## Presentation
 
 The slides for our presentation can be found
 [here](presentation/presentation.html).
 
-## Data
+## Data source
 
-A dataset with penguins data.
+We used a dataset with penguins data.
