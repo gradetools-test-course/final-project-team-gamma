@@ -68,9 +68,11 @@ ggplot(penguins_modified, aes(x = flipper_length_mm, y = body_mass_g, color = sp
 
 ## Model
 
-A linear regression with interaction:
+A simple linear regression:
 
 ```{r boring-regression}
-lm(flipper_length_mm ~ body_mass_g*species, data = penguins_modified) %>% 
+lm(body_mass_g ~ flipper_length_mm, data = penguins_modified) %>% 
   tidy() 
 ```
+
+
