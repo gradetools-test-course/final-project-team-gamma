@@ -3,19 +3,17 @@ Feedback
 
 ## README
 
-The summary section of the README should introduce the project and its
-relavance, outline the methods, and summarize important results.
-
-You did not mention where you took your data from.
-
-## Presentation
-
-For example your title could be: “Palmer penguins: association between
-body mass and flipper length”
-
-The presentation title should inform the reader of the general contents
-of the project.
+You should indicate where you found the data.
 
 ## Proposal
 
-Partial credit for late submission
+The template for the file was unchanged. Did you miss this part or
+forget to push?
+
+## Presentation
+
+An informative title is e.g. ‘Body mass and flippers among palmer
+penguins’
+
+The presentation title should inform the reader of the general contents
+of the project.
